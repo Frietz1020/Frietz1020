@@ -50,10 +50,10 @@
 ![](https://streak-stats.demolab.com/?user=Frietz1020&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Frietz1020&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 💰 You can help me by Donating
+# 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/FrietzRanz)
 
 
 
-## Agnes Tachyon
-![Agnas](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjViNTFobTZ3NHB4NGtobmIzNm5mem1xeDhjOHJrNWM2bDQ5d3pyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpZrFUfZLU1jvnu1jJ/giphy.gif)
+# 🐴 Agnes Tachyon
+![Agnes](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjViNTFobTZ3NHB4NGtobmIzNm5mem1xeDhjOHJrNWM2bDQ5d3pyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpZrFUfZLU1jvnu1jJ/giphy.gif)
